@@ -1,0 +1,5 @@
+Go to:
+
+godashboard=>src=>app=>layout=>layout-routing.module.ts
+//This is for routing
+
